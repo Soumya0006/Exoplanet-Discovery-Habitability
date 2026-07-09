@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard exploring 51 confirmed exoplanets — their discovery methods, physical characteristics, host stars, and habitability potential.
 
-![Dashboard Preview](Images/dashboard-main-view.png)
+![Dashboard Preview](Images/dashboard-main-view.webp)
 
 ---
 
@@ -36,12 +36,12 @@ This project analyzes a curated dataset of confirmed exoplanets to uncover patte
 ### Main Analytics View
 KPI summary cards, planet type distribution, mass vs. radius scatter, discovery method breakdown, discovery trend over time, habitability analysis, star temperature distribution, and distance-from-Earth by planet type — with filters for discovery year, planet type, discovery method, habitability zone, atmosphere, NASA mission, and constellation.
 
-![Main Dashboard](Images/dashboard-main-view.png)
+![Main Dashboard](Images/dashboard-main-view.webp)
 
 ### Key Insights Panel
 A narrative summary of the standout findings across discovery trends, habitability, star & planet characteristics, observation methods, distance & location, and missions & future scope.
 
-![Insights Panel](Images/dashboard-insights-panel.png)
+![Insights Panel](Images/dashboard-insights-panel.webp)
 
 ---
 
