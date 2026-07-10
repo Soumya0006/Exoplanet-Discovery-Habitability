@@ -1,0 +1,51 @@
+Planet_Name,Host_Star,Discovery_Year,Discovery_Method,Orbital_Period_Days,Planet_Mass_Jupiter,Planet_Radius_Jupiter,Distance_Light_Years,Equilibrium_Temp_K,Star_Type,Star_Mass_Solar,Star_Age_Billion_Years,Eccentricity,Semi_Major_Axis_AU,Planet_Type,Habitability_Zone,Atmosphere_Detected,Confirmed,Number_of_Moons_Est,Right_Ascension,Declination,Constellation,NASA_Mission
+51 Pegasi b,51 Pegasi,1995,Radial Velocity,4.23,0.472,1.09,50.9,1285,G2V,1.04,6.1,0.013,0.052,Hot Jupiter,No,No,Yes,0,22h 57m,+20° 46',Pegasus,N/A
+HD 209458 b,HD 209458,1999,Transit,3.52,0.714,1.38,159,1459,G0V,1.15,4.0,0.014,0.047,Hot Jupiter,No,Yes,Yes,0,22h 03m,+18° 53',Pegasus,Hubble
+Kepler-22b,Kepler-22,2011,Transit,289.86,0.11,2.4,635,295,G5V,0.97,4.5,0.017,0.849,Super-Earth,Yes,Unknown,Yes,2,19h 16m,+47° 53',Cygnus,Kepler
+GJ 1214 b,GJ 1214,2009,Transit,1.58,0.0200,0.241,42,555,M4.5,0.15,6.0,0.014,0.014,Super-Earth,No,Yes,Yes,0,17h 15m,+04° 58',Ophiuchus,N/A
+Proxima Centauri b,Proxima Centauri,2016,Radial Velocity,11.19,0.0040,0.107,4.2,234,M5.5Ve,0.12,4.9,0.02,0.049,Terrestrial,Yes,Unknown,Yes,0,14h 29m,-62° 41',Centaurus,N/A
+TRAPPIST-1b,TRAPPIST-1,2016,Transit,1.51,0.0027,0.101,40,400,M8V,0.089,7.6,0.002,0.011,Terrestrial,No,Unknown,Yes,0,23h 06m,-05° 02',Aquarius,Spitzer/JWST
+TRAPPIST-1c,TRAPPIST-1,2016,Transit,2.42,0.0023,0.109,40,341,M8V,0.089,7.6,0.003,0.016,Terrestrial,No,Unknown,Yes,0,23h 06m,-05° 02',Aquarius,Spitzer/JWST
+TRAPPIST-1d,TRAPPIST-1,2017,Transit,4.05,0.00099,0.077,40,288,M8V,0.089,7.6,0.004,0.022,Terrestrial,Yes,Unknown,Yes,0,23h 06m,-05° 02',Aquarius,Spitzer/JWST
+TRAPPIST-1e,TRAPPIST-1,2017,Transit,6.1,0.0016,0.092,40,251,M8V,0.089,7.6,0.005,0.029,Terrestrial,Yes,Unknown,Yes,0,23h 06m,-05° 02',Aquarius,JWST
+TRAPPIST-1f,TRAPPIST-1,2017,Transit,9.2,0.0026,0.101,40,219,M8V,0.089,7.6,0.006,0.038,Terrestrial,Yes,Unknown,Yes,0,23h 06m,-05° 02',Aquarius,JWST
+TRAPPIST-1g,TRAPPIST-1,2017,Transit,12.35,0.0031,0.113,40,199,M8V,0.089,7.6,0.004,0.046,Terrestrial,Possible,Unknown,Yes,0,23h 06m,-05° 02',Aquarius,JWST
+TRAPPIST-1h,TRAPPIST-1,2017,Transit,18.77,0.00086,0.075,40,169,M8V,0.089,7.6,0.005,0.062,Terrestrial,No,Unknown,Yes,0,23h 06m,-05° 02',Aquarius,JWST
+Kepler-452b,Kepler-452,2015,Transit,384.84,0.150,1.63,1402,265,G2V,1.04,6.0,0.005,1.046,Super-Earth,Yes,Unknown,Yes,0,19h 44m,+44° 16',Cygnus,Kepler
+K2-18b,K2-18,2015,Transit,32.94,0.0290,0.222,124,272,M2.5V,0.36,2.4,0.009,0.143,Super-Earth,Yes,Yes,Yes,0,11h 30m,+01° 58',Leo,K2/JWST
+LHS 1140 b,LHS 1140,2017,Transit,24.74,0.0180,0.151,49,226,M4.5V,0.15,5.0,0.003,0.0875,Super-Earth,Yes,Unknown,Yes,0,00h 44m,-15° 16',Cetus,N/A
+55 Cancri e,55 Cancri,2004,Radial Velocity,0.74,0.0246,0.194,41,1958,G8V,0.91,10.2,0.063,0.0154,Super-Earth,No,Yes,Yes,0,08h 52m,+28° 20',Cancer,Spitzer
+HD 40307 g,HD 40307,2012,Radial Velocity,197.8,0.0220,0.189,42,226,K2.5V,0.77,4.5,0.290,0.600,Super-Earth,Yes,Unknown,Yes,0,05h 54m,-60° 01',Pictor,N/A
+Kepler-62f,Kepler-62,2013,Transit,267.29,0.110,1.41,1200,208,K2V,0.69,7.0,0.095,0.718,Super-Earth,Yes,Unknown,Yes,0,18h 52m,+45° 20',Lyra,Kepler
+Wolf 1061 c,Wolf 1061,2015,Radial Velocity,17.87,0.0104,0.141,14,229,M3V,0.29,1.5,0.110,0.089,Super-Earth,Yes,Unknown,Yes,0,16h 30m,-12° 39',Ophiuchus,N/A
+Tau Ceti e,Tau Ceti,2012,Radial Velocity,168.12,0.0110,0.143,12,200,G8.5V,0.78,5.8,0.050,0.552,Super-Earth,Yes,Unknown,Candidate,0,01h 44m,-15° 56',Cetus,N/A
+Kepler-69c,Kepler-69,2013,Transit,242.46,0.030,1.71,2707,299,G4V,0.81,0.0,0.060,0.640,Super-Earth,Yes,Unknown,Yes,0,19h 35m,+44° 46',Cygnus,Kepler
+Gliese 667Cc,Gliese 667C,2011,Radial Velocity,28.14,0.0113,0.149,23,277,M1.5,0.33,6.0,0.024,0.125,Super-Earth,Yes,Unknown,Yes,0,17h 18m,-34° 59',Scorpius,N/A
+HD 189733 b,HD 189733,2005,Transit,2.22,1.138,1.138,63,1200,K0,0.82,8.0,0.004,0.031,Hot Jupiter,No,Yes,Yes,0,20h 00m,+22° 42',Vulpecula,Hubble/Spitzer
+WASP-12b,WASP-12,2008,Transit,1.09,1.470,1.900,870,2580,G0,1.38,2.0,0.049,0.023,Hot Jupiter,No,Yes,Yes,0,06h 30m,+29° 40',Auriga,Hubble
+HAT-P-7b,HAT-P-7,2008,Transit,2.20,1.800,1.420,1044,2150,F6V,1.52,2.1,0.002,0.038,Hot Jupiter,No,Yes,Yes,0,19h 28m,+47° 58',Cygnus,Kepler
+Kepler-16b,Kepler-16,2011,Transit,228.78,0.333,0.753,245,188,K-type,0.69,3.0,0.007,0.705,Saturn-like,No,Unknown,Yes,0,19h 16m,+51° 45',Cygnus,Kepler
+HR 8799 b,HR 8799,2008,Direct Imaging,463980,5.800,1.200,129,800,F0V,1.56,0.03,0.020,68.000,Gas Giant,No,Yes,Yes,0,23h 07m,+21° 08',Pegasus,Keck/VLT
+HR 8799 c,HR 8799,2008,Direct Imaging,130000,7.000,1.100,129,1000,F0V,1.56,0.03,0.030,38.000,Gas Giant,No,Yes,Yes,0,23h 07m,+21° 08',Pegasus,Keck/VLT
+HR 8799 d,HR 8799,2008,Direct Imaging,73000,7.000,1.100,129,1100,F0V,1.56,0.03,0.050,24.000,Gas Giant,No,Yes,Yes,0,23h 07m,+21° 08',Pegasus,Keck/VLT
+HR 8799 e,HR 8799,2010,Direct Imaging,45000,7.000,1.100,129,1200,F0V,1.56,0.03,0.050,14.500,Gas Giant,No,Yes,Yes,0,23h 07m,+21° 08',Pegasus,Keck/VLT
+Beta Pictoris b,Beta Pictoris,2008,Direct Imaging,8580,13.000,1.650,63,1700,A6V,1.75,0.02,0.120,8.900,Gas Giant,No,Yes,Yes,0,05h 47m,-51° 04',Pictor,VLT
+GJ 504 b,GJ 504,2013,Direct Imaging,352000,4.000,1.300,57,510,G0V,1.22,0.16,0.000,43.500,Gas Giant,No,Unknown,Yes,0,13h 16m,+09° 25',Virgo,Subaru
+Fomalhaut b,Fomalhaut,2008,Direct Imaging,3720000,0.000,0.000,25,43,A3V,1.92,0.44,0.800,133.000,Unknown,No,No,Candidate,0,22h 57m,-29° 37',Piscis Austrinus,Hubble
+Kepler-186f,Kepler-186,2014,Transit,129.94,0.032,1.17,582,188,M1V,0.48,4.0,0.004,0.432,Terrestrial,Yes,Unknown,Yes,0,19h 54m,+43° 57',Cygnus,Kepler
+Kepler-442b,Kepler-442,2015,Transit,112.31,0.030,1.34,1206,233,K-type,0.61,11.2,0.045,0.409,Super-Earth,Yes,Unknown,Yes,0,19h 01m,+39° 16',Lyra,Kepler
+TOI-700d,TOI-700,2020,Transit,37.42,0.0078,0.104,102,269,M2V,0.42,7.5,0.075,0.163,Terrestrial,Yes,Unknown,Yes,0,05h 56m,-65° 35',Dorado,TESS
+TOI-700e,TOI-700,2023,Transit,27.81,0.0071,0.095,102,294,M2V,0.42,7.5,0.060,0.134,Terrestrial,Yes,Unknown,Yes,0,05h 56m,-65° 35',Dorado,TESS
+GJ 3470 b,GJ 3470,2012,Transit,3.34,0.0441,0.370,97,650,M1.5,0.51,5.0,0.114,0.036,Neptune-like,No,Yes,Yes,0,07h 59m,+15° 23',Gemini,N/A
+Kepler-90i,Kepler-90,2017,Transit,14.44,0.0150,0.132,2545,709,G-type,1.13,2.1,0.005,0.101,Super-Earth,No,Unknown,Yes,0,18h 57m,+49° 18',Cygnus,Kepler
+LHS 3844 b,LHS 3844,2019,Transit,0.46,0.0070,0.090,49,805,M5V,0.15,5.0,0.010,0.006,Terrestrial,No,No,Yes,0,22h 52m,-69° 03',Tucana,TESS
+GJ 357 d,GJ 357,2019,Radial Velocity,55.69,0.0067,0.103,31,219,M2.5V,0.36,8.0,0.088,0.204,Super-Earth,Yes,Unknown,Yes,0,09h 36m,-21° 39',Hydra,TESS
+Kepler-1649c,Kepler-1649,2020,Transit,19.54,0.0046,0.086,302,234,M5V,0.20,5.0,0.058,0.082,Terrestrial,Yes,Unknown,Yes,0,19h 26m,+41° 33',Cygnus,Kepler
+GJ 876 d,GJ 876,2005,Radial Velocity,1.94,0.0224,0.188,15,647,M4V,0.33,6.5,0.020,0.021,Super-Earth,No,Unknown,Yes,0,22h 53m,-14° 15',Aquarius,N/A
+55 Cancri b,55 Cancri,1996,Radial Velocity,14.65,0.8140,1.050,41,788,G8V,0.91,10.2,0.015,0.114,Gas Giant,No,Unknown,Yes,0,08h 52m,+28° 20',Cancer,N/A
+HD 99492 c,HD 99492,2015,Radial Velocity,4970,0.0550,0.247,18,100,K2V,0.85,6.7,0.090,5.400,Gas Giant,No,Unknown,Yes,0,11h 26m,+03° 00',Leo,N/A
+Upsilon Andromedae d,Upsilon Andromedae,1999,Radial Velocity,1281.5,4.130,1.100,44,250,F8V,1.31,3.1,0.236,2.530,Gas Giant,No,Unknown,Yes,0,01h 36m,+41° 24',Andromeda,N/A
+Mu Arae c,Mu Arae,2004,Radial Velocity,9.64,0.0330,0.216,50,834,G3IV-V,1.08,6.3,0.172,0.090,Neptune-like,No,Unknown,Yes,0,17h 44m,-51° 50',Ara,N/A
+Kepler-62e,Kepler-62,2013,Transit,122.39,0.110,1.61,1200,270,K2V,0.69,7.0,0.180,0.427,Super-Earth,Yes,Unknown,Yes,0,18h 52m,+45° 20',Lyra,Kepler
+GJ 667C b,GJ 667C,2011,Radial Velocity,7.20,0.0054,0.102,23,388,M1.5,0.33,6.0,0.032,0.050,Terrestrial,No,Unknown,Yes,0,17h 18m,-34° 59',Scorpius,N/A
+Ross 128 b,Ross 128,2017,Radial Velocity,9.86,0.0042,0.110,11,294,M4V,0.17,9.4,0.116,0.050,Terrestrial,Yes,Unknown,Yes,0,11h 47m,+00° 48',Virgo,N/A
