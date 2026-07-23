@@ -90,9 +90,3 @@ The dashboard is built on a 51-row, 35-column dataset of confirmed exoplanets, i
 
 **Dashboard designed & created by:** Soumya Ranjan Das
 *Aspiring Data Analyst*
-
----
-
-## 📄 License
-
-This project is shared for portfolio and educational purposes. Feel free to explore, fork, and reference with attribution.
